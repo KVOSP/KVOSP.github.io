@@ -1,0 +1,13 @@
+# Menu navigation links
+
+- title: Reading List
+  url: /reading-list/
+
+- title: Timeline
+  url: /timeline/
+
+- title: Links
+  url: /links/
+
+- title: Github
+  url: http://github.com/xinqiu
